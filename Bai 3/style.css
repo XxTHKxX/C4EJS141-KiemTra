@@ -1,0 +1,396 @@
+.sapphire {
+  position: absolute;
+  top: 15px;
+  left: 72px;
+  font-size: 25px;
+  font-weight: 500;
+}
+.explore,
+.marketplace {
+  position: absolute;
+  top: 23px;
+  left: 218px;
+}
+.marketplace {
+  left: 295px;
+}
+.artist,
+.collection,
+.search {
+  position: absolute;
+  top: 23px;
+  left: 413px;
+}
+.collection,
+.search {
+  left: 481px;
+}
+.search {
+  top: 8px;
+  left: 7px;
+}
+.vector-icon {
+  height: 33.33%;
+  width: 4.13%;
+  top: 28.15%;
+  right: 3.95%;
+  bottom: 38.52%;
+  left: 91.92%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.search-parent,
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 11.76%;
+  width: 1.46%;
+  top: 53.43%;
+  right: 3.49%;
+  bottom: 34.81%;
+  left: 95.05%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.search-parent {
+  top: 18px;
+  left: 584px;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 242px;
+  height: 30px;
+  font-size: var(--font-size-3xs);
+}
+.sign-in,
+.sign-in-wrapper {
+  position: absolute;
+  top: 8px;
+  left: 29px;
+}
+.sign-in-wrapper {
+  top: 18px;
+  left: 856px;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(
+    85.76deg,
+    rgba(191, 196, 238, 0.09) 15.52%,
+    #c367e6 58.75%,
+    rgba(190, 206, 239, 0)
+  );
+  width: 93px;
+  height: 30px;
+  overflow: hidden;
+  font-size: var(--font-size-3xs);
+}
+.discover-now {
+  position: absolute;
+  top: 10px;
+  left: 47px;
+}
+.discover-now-wrapper {
+  position: absolute;
+  top: 433px;
+  left: 60px;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(
+    85.76deg,
+    rgba(191, 196, 238, 0.09) 15.52%,
+    #c367e6 58.75%,
+    rgba(190, 206, 239, 0)
+  );
+  width: 199px;
+  height: 40px;
+  overflow: hidden;
+  font-size: 16px;
+}
+.artists,
+.artworks,
+.auctions {
+  position: absolute;
+  top: 599px;
+  left: 67px;
+  font-size: var(--font-size-xs);
+}
+.artists,
+.auctions {
+  left: 229px;
+}
+.artists {
+  left: 375px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 29px;
+  left: 25.72px;
+  border-radius: 4.89px;
+  width: 357.28px;
+  height: 370.24px;
+  object-fit: cover;
+}
+.monkey-apes {
+  position: absolute;
+  top: 410px;
+  left: 32px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-space-grotesk);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.ellipse-icon,
+.frame-child,
+.frame-child1,
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 410px;
+  left: 284px;
+  border-radius: 50%;
+  width: 29px;
+  height: 28px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.frame-child1,
+.frame-inner,
+.frame-item {
+  left: 299px;
+}
+.ellipse-icon,
+.frame-child1,
+.frame-inner {
+  left: 319px;
+}
+.ellipse-icon,
+.frame-child1 {
+  left: 334px;
+}
+.frame-child1 {
+  left: 354px;
+}
+.current-bid,
+.current-bid1,
+.ending-in {
+  position: absolute;
+  top: 449px;
+  left: 33px;
+  color: var(--color-dimgray);
+}
+.current-bid1,
+.ending-in {
+  left: 170px;
+  font-weight: 500;
+}
+.ending-in {
+  left: 353px;
+}
+.authors,
+.eth,
+.h-43m-26s {
+  position: absolute;
+  top: 463px;
+  left: 43px;
+  font-size: var(--font-size-3xs);
+  font-weight: 500;
+}
+.authors,
+.h-43m-26s {
+  left: 170px;
+}
+.h-43m-26s {
+  left: 331px;
+}
+.frame-child2 {
+  position: absolute;
+  top: 466px;
+  left: 33px;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  object-fit: cover;
+}
+.vector-icon2 {
+  height: 1.77%;
+  width: 1.7%;
+  top: 94.13%;
+  right: 18.84%;
+  bottom: 4.1%;
+  left: 79.46%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.image-1-parent,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  overflow: hidden;
+}
+.image-1-parent {
+  top: 125px;
+  left: 551px;
+  border-radius: 10px;
+  background-color: var(--color-darkslategray);
+  width: 404px;
+  height: 494px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-dm-mono);
+}
+.vector-icon3 {
+  height: 0.87%;
+  width: 1.27%;
+  top: 47.28%;
+  right: 40.04%;
+  bottom: 51.86%;
+  left: 58.69%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.discover-sell {
+  margin: 0;
+}
+.discover-sell-container {
+  position: absolute;
+  top: 138px;
+  left: 62px;
+  font-size: 60px;
+  color: var(--color-white);
+}
+.desktop-1-child {
+  position: absolute;
+  top: 285.5px;
+  left: 337.5px;
+  width: 124.5px;
+  height: 16.07px;
+}
+.digital-marketplace-for-container,
+.k,
+.k1,
+.k2 {
+  position: absolute;
+  left: 62px;
+  color: var(--color-white);
+}
+.digital-marketplace-for-container {
+  top: 381px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+}
+.k,
+.k1,
+.k2 {
+  top: 554px;
+  font-size: var(--font-size-17xl);
+}
+.k1,
+.k2 {
+  left: 220px;
+}
+.k2 {
+  left: 363px;
+}
+.image-removebg-preview-6-icon {
+  position: absolute;
+  top: 743px;
+  left: 276px;
+  width: 135.71px;
+  height: 50px;
+  object-fit: cover;
+}
+.image-removebg-preview-12-1,
+.image-removebg-preview-13-1,
+.image-removebg-preview-7-1 {
+  position: absolute;
+  top: 743px;
+  left: 457px;
+  width: 135.71px;
+  height: 50px;
+  object-fit: cover;
+}
+.image-removebg-preview-13-1,
+.image-removebg-preview-7-1 {
+  left: 629px;
+}
+.image-removebg-preview-7-1 {
+  left: 825px;
+}
+.nft-marketplace {
+  top: 849px;
+  left: 467px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-dm-mono);
+  background: linear-gradient(180deg, #9c76b8, rgba(156, 118, 184, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nft-marketplace,
+.super-hot-drops,
+.view-more {
+  position: absolute;
+  font-weight: 500;
+}
+.super-hot-drops {
+  top: 875px;
+  left: 433px;
+  font-size: 20px;
+  color: var(--color-white);
+}
+.view-more {
+  top: 10px;
+  left: 38px;
+}
+.view-more-wrapper {
+  position: absolute;
+  top: 1775px;
+  left: 441px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkslategray);
+  width: 141px;
+  height: 33px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-dm-mono);
+}
+.desktop-1 {
+  position: relative;
+  background-color: #1c233d;
+  width: 100%;
+  height: 849px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gainsboro);
+  font-family: var(--font-space-grotesk);
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-dm-mono: "DM Mono";
+  --font-space-grotesk: "Space Grotesk";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-3xs: 10px;
+  --font-size-17xl: 36px;
+  --font-size-5xs: 8px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-darkslategray: #30384d;
+  --color-white: #fff;
+  --color-dimgray: #545c71;
+  --color-gainsboro: #e5e5e5;
+
+  /* border radiuses */
+  --br-8xs: 5px;
+}
